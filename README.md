@@ -3,4 +3,4 @@ This is my first Git repository
 <br>
 author-nareshsagar
 <br>
-<strong>Nareshsagar</strong>
+Nareshsagar
